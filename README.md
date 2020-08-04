@@ -1,1 +1,1 @@
-# pin-generator-application
+# pin-generator
