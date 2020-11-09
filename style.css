@@ -72,7 +72,7 @@ font-size: 25px;
 text-align: center;
 vertical-align: middle;
 margin-right: -4px;
-border-radius: 10px;
+border-radius: 10px; 
 cursor: pointer;
 }
 .blink-me {
